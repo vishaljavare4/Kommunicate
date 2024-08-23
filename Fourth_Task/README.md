@@ -3,8 +3,8 @@
 GitHub Finder is a web application that allows users to search for GitHub profiles using a username. The app retrieves and displays details about the GitHub user, such as their profile picture, name, username, bio, and location, using the GitHub API.
 
 ## Demo
-
-[Live Demo](#) — Check out the live version of the project.
+[https://github.com/vishaljavare4/GitHub_Finder.git](#) — Check out the repository of the project.
+[https://vishaljavare4.github.io/GitHub_Finder/](#) — Check out the live version of the project.
 
 ## Features
 
